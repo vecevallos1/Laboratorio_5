@@ -32,7 +32,9 @@
 
 * 3.1 MATERIALES DE LA PRACTICA Y DIAGRAMA.
 
-[![materialeslab6.png](https://i.postimg.cc/zB8kFZh2/materialeslab6.png)](https://postimg.cc/CZrDw2mb)
+
+![image](https://user-images.githubusercontent.com/117045943/211959617-2fa88bbd-384e-4bd4-80e1-4b19e77ddfc5.png)
+
 
 * 3.2 PROCEDIMIENTO
 
