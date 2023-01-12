@@ -1,8 +1,8 @@
-# Laboratorio_5
+# Laboratorio_6
 
 # "UNIVERSIDAD DE LAS FUERZAS ARMADAS"
 # ESPE
-# PRÁCTICA No. 5 TEOREMA DE THÉVENIN
+# PRÁCTICA No. 6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
 
 ![image](https://user-images.githubusercontent.com/116772918/200762591-a164d8db-c02e-4269-8bb4-0bc4c810d79f.png)
 
