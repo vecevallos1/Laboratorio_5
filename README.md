@@ -37,7 +37,9 @@
 
 ![image](https://user-images.githubusercontent.com/117045943/211959685-df18703b-42c8-49c4-b099-a974ab9eca20.png)
 * 3.2 PROCEDIMIENTO
-
+* 3.2.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+* 3.2.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+* 3.2.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO**
 
