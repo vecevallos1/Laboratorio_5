@@ -50,6 +50,8 @@ Comprobar por medios experimentales el teorema de maxima transferencia de potenc
 
 * 3.2.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
+[![riejm.jpg](https://i.postimg.cc/jdQC3DJd/riejm.jpg)](https://postimg.cc/crCsr4mV)
+
 * 3.2.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
 
 [![Imagen-de-Whats-App-2023-01-12-a-las-22-55-32.jpg](https://i.postimg.cc/nczgWNss/Imagen-de-Whats-App-2023-01-12-a-las-22-55-32.jpg)](https://postimg.cc/BtrmLYBs)
