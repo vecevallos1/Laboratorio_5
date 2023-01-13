@@ -22,10 +22,15 @@
 
 **1.1  OBJETIVO GENERAL**
 
+Comprobar por medios experimentales el teorema de maxima transferencia de potencia por medio de un circuito de practica para asegurar que Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
 **1.2  OBJETIVOS ESPECIFICOS**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
+
+![image](https://user-images.githubusercontent.com/93800511/149445542-f15918b0-30c9-4408-a458-e6efafbd2f4c.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
