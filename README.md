@@ -36,6 +36,7 @@ Comprobar por medios experimentales el teorema de maxima transferencia de potenc
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
 * 3.1 MATERIALES DE LA PRACTICA Y DIAGRAMA.
+![image](https://user-images.githubusercontent.com/116772918/212378934-f9a82b91-a4a7-43e2-8b43-d4cfc846f980.png)
 
 
 ![image](https://user-images.githubusercontent.com/117045943/211959617-2fa88bbd-384e-4bd4-80e1-4b19e77ddfc5.png)
