@@ -36,9 +36,11 @@ Comprobar por medios experimentales el teorema de maxima transferencia de potenc
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
 * 3.1 MATERIALES DE LA PRACTICA Y DIAGRAMA.
+
 ![image](https://user-images.githubusercontent.com/117045943/211959617-2fa88bbd-384e-4bd4-80e1-4b19e77ddfc5.png)
 
 ![image](https://user-images.githubusercontent.com/117045943/211959685-df18703b-42c8-49c4-b099-a974ab9eca20.png)
+
 * 3.2 PROCEDIMIENTO
 * 3.2.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
