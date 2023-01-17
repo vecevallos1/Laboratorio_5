@@ -72,9 +72,9 @@ https://youtu.be/fhYEQcrXM2U
 
 **6. CONCLUSIONES**
 
-*Para poder comprobar el teorema de la máxima transferencia de potencia es necesario saber calcular la corriente y voltaje de un circuito,también es necesario saber utilizar el laboratorio virtual.
+* Para poder comprobar el teorema de la máxima transferencia de potencia es necesario saber calcular la corriente y voltaje de un circuito,también es necesario saber utilizar el laboratorio virtual.
 
-*El teorema de la máxima transferencia de potencia es comprobable por medio de está practica donde existe la presencia de una fuente una resistencia con un valor fijo y una resistencia equivalente la cual se va cambiando, para calcular la potencia del circuito, lo que arroja como resultado que la resistencia que logra la máxima potencia es del mismo valor que la resistencia fija, sin embargo en esta practica la mayor potencia fue la de 1 kiloohm.
+* El teorema de la máxima transferencia de potencia es comprobable por medio de está practica donde existe la presencia de una fuente una resistencia con un valor fijo y una resistencia equivalente la cual se va cambiando, para calcular la potencia del circuito, lo que arroja como resultado que la resistencia que logra la máxima potencia es del mismo valor que la resistencia fija, sin embargo en esta practica la mayor potencia fue la de 1 kiloohm.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
